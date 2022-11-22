@@ -1,3 +1,4 @@
+![:name](https://count.getloli.com/get/@:hello_guregorio)
 ### Hello, I'm Hao Jiang 👋
 
 - I'm currently learning cs in NKU.
