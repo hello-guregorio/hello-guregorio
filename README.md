@@ -1,3 +1,5 @@
+<img align="right" width="200" src="https://user-images.githubusercontent.com/105656100/203349877-9b8775b6-2f31-4e52-9d94-fde5ed0e4f0f.png">
+
 ### Hello, I'm Hao Jiang 👋
 
 - I'm currently learning cs in NKU.
